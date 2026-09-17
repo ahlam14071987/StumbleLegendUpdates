@@ -1,2 +1,2 @@
-1.0.3
-https://github.com/ahlam14071987/StumbleLegendUpdates/releases/download/1.0.3/ClientLoader.dll
+1.0.4
+https://github.com/ahlam14071987/StumbleLegendUpdates/releases/download/1.0.4/ClientLoader.dll
