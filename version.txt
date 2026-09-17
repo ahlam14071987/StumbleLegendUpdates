@@ -1,1 +1,2 @@
-2xdxd
+v1.0.2
+https://github.com/ahlam14071987/StumbleLegendUpdates/releases/download/v1.0.2/ClientLoader.dll
