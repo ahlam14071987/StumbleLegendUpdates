@@ -1,2 +1,2 @@
-1.4
-https://github.com/ahlam14071987/StumbleLegendUpdates/releases/download/1.4/StumbleDark.dll
+4.0.0
+https://github.com/ahlam14071987/StumbleLegendUpdates/releases/download/4.0.0/StumbleDark.dll
