@@ -1,2 +1,2 @@
-5.0.0
+2.0.0
 https://github.com/ahlam14071987/StumbleLegendUpdates/releases/download/2.0.0/StumbleRanked.dll
